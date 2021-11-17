@@ -1,2 +1,6 @@
-# 3505_demo_2122
-demo repo for web page
+# My demo profile
+
+Hi I'm Aaron Newman and this is my profile.
+
+## About me
+I'm a professor at Dalhousie University
